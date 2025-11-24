@@ -1,0 +1,15 @@
+# id;lastname;firstname;email;password;role
+admin001;Admin;User;admin001@mylaurier.ca;admin123;ADMIN
+admin002;Super;Admin;superadmin@mylaurier.ca;superpass;ADMIN
+169106570;Al-Khazraji;Ali;alkh6570@mylaurier.ca;password123;STUDENT
+169203003;Brown;Mike;mikebrown@mylaurier.ca;mikepass;STUDENT
+169203002;Doe;Jane;janedoe@mylaurier.ca;janepass;STUDENT
+169082415;Khan;Bilal;khan2415@mylaurier.ca;passwordtest;STUDENT
+169106573;Kid;Rich;kidh1651@mylaurier.ca;richthekid;STUDENT
+169203006;Lee;Olivia;olivialee@mylaurier.ca;oliviapass;STUDENT
+169500672;Migo;Kiari;migo1235@mylaurier.ca;offset!;STUDENT
+169500671;Migo;Quavo;migo1234@mylaurier.ca;huncho;STUDENT
+169500670;Migo;Takeoff;migo1236@mylaurier.ca;TAKEOFF!;STUDENT
+169203001;Smith;John;johnsmith@mylaurier.ca;johnpass;STUDENT
+169203004;Taylor;Emma;emmataylor@mylaurier.ca;emmapass;STUDENT
+169203005;Wilson;Liam;liamwilson@mylaurier.ca;liampass;STUDENT

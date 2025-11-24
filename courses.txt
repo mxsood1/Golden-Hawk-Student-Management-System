@@ -1,0 +1,11 @@
+# code;title;credits;type
+CP213;Object-Oriented Programming;0.5;Lecture
+CP214;Discrete Structures;0.5;Lecture
+CP215;Data Structures;0.5;Lecture
+CP216;Computer Networks;0.5;Lecture
+CP217;Database Systems;0.5;Lecture
+CP218;Operating Systems;0.5;Lecture
+CP219;Software Engineering;0.5;Lecture
+CP220;Web Development Lab;0.5;Lab
+CP221;AI Tutorial;0.5;Tutorial
+CP222;Web Development Lab;0.5;Lab
